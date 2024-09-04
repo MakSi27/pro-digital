@@ -46,7 +46,7 @@
 
                                                             <h1
                                                                 class="tx-title chy-heading-1 title chy-split-in-hero-1 chy-split-text-2">
-                                                                Transform <br> your digital presence</h1>
+                                                                Transform <br> your digital presence.</h1>
                                                             <p class="chy-para-1 disc wow fadeInLeft tx-description"
                                                                 data-wow-duration="3s">
                                                                 unlock the potential of your brand with customized stratergies that drive results. We turn your challenges into opportunities for growth </p>
