@@ -46,7 +46,7 @@
 
                                                             <h1
                                                                 class="tx-title chy-heading-1 title chy-split-in-hero-1 chy-split-text-2">
-                                                                Transform <br> your digital presence.</h1>
+                                                                Transform <br> your digital presence</h1>
                                                             <p class="chy-para-1 disc wow fadeInLeft tx-description"
                                                                 data-wow-duration="3s">
                                                                 unlock the potential of your brand with customized stratergies that drive results. We turn your challenges into opportunities for growth </p>
@@ -508,16 +508,13 @@
                                                                         <div class="section-title-wrap text-left">
                                                                             <h5
                                                                                 class="chy-subtitle-1 tx-subTitle wow fadeInLeft isShape">
-                                                                                CONSULTING SERVICES </h5>
+                                                                                DIGITAL MARKETING SOLUTIONS </h5>
 
                                                                             <h2
                                                                                 class="tx-title chy-title-1 chy-split-text chy-split-in-right">
-                                                                                Skillset to improve Your Company Brand</h2>
+                                                                                Drive Growth with Powerful Digital Marketing Solutions</h2>
                                                                             <p class="tx-description chy-para-1 wow ">
-                                                                                Every pleasure is to be welcomed and every
-                                                                                pain avoided. certain circumstances and
-                                                                                owing to the claims welcomed and every pain
-                                                                                avoided certain circumstances </p>
+                                                                               We help buisnesses succeed with tailored digital stratergies,including SEO,PPC,social media management, and content marketing </p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -573,11 +570,7 @@
                                                                     data-id="b5d83d6" data-element_type="widget"
                                                                     data-widget_type="image.default">
                                                                     <div class="elementor-widget-container">
-                                                                        <img decoding="async" width="190"
-                                                                            height="119"
-                                                                            src="images/s1-img-3.webp"
-                                                                            class="attachment-large size-large wp-image-124"
-                                                                            alt="" />
+                                                                       
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -703,11 +696,11 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="section-title-wrap text-center">
                                                             <h5 class="chy-subtitle-1 tx-subTitle wow fadeInDown isShape">
-                                                                CONSULTING SERVICES </h5>
+                                                                DIGITAL MARKETING SOLUTIONS </h5>
 
                                                             <h2
                                                                 class="tx-title chy-title-1 chy-split-text chy-split-in-right">
-                                                                Consulting Costing</h2>
+                                                                Marketing Solutions Tailored for You </h2>
                                                             <p class="tx-description chy-para-1 wow ">
                                                                 Every pleasure is to be welcomed and every pain avoided.
                                                                 <br> certain circumstances and owing to the claims </p>
@@ -743,10 +736,9 @@
                                                                 </div>
                                                             </div>
 
-                                                            <h5 class="chy-heading-1 title tx-title">Digital Marketing</h5>
+                                                            <h5 class="chy-heading-1 title tx-title">End-to-End Digital Campaigns</h5>
 
-                                                            <p class="chy-para-1 disc tx-description">Every pleasure is to
-                                                                be welcomed and every pain avoided.</p>
+                                                            <p class="chy-para-1 disc tx-description">Deliver results-driven digital campaigns,including social media,email marketing,and more.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -775,8 +767,7 @@
 
                                                             <h5 class="chy-heading-1 title tx-title">SEO Optimization</h5>
 
-                                                            <p class="chy-para-1 disc tx-description">Every pleasure is to
-                                                                be welcomed and every pain avoided.</p>
+                                                            <p class="chy-para-1 disc tx-description">Boost your website's visibility and drive organic traffic through expert SEO</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -803,10 +794,9 @@
                                                                 </div>
                                                             </div>
 
-                                                            <h5 class="chy-heading-1 title tx-title">Product Research</h5>
+                                                            <h5 class="chy-heading-1 title tx-title">Consumer Insights and Trend Analysis</h5>
 
-                                                            <p class="chy-para-1 disc tx-description">Every pleasure is to
-                                                                be welcomed and every pain avoided.</p>
+                                                            <p class="chy-para-1 disc tx-description">We conduct in-depth market research to craft stratergies that resonate with your audience</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -833,10 +823,9 @@
                                                                 </div>
                                                             </div>
 
-                                                            <h5 class="chy-heading-1 title tx-title">Web Development</h5>
+                                                            <h5 class="chy-heading-1 title tx-title">Custom Web Solutions</h5>
 
-                                                            <p class="chy-para-1 disc tx-description">Every pleasure is to
-                                                                be welcomed and every pain avoided.</p>
+                                                            <p class="chy-para-1 disc tx-description">Build a modern,user-friendly website that enhances your brand and converts visitors into customers</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -888,33 +877,22 @@
                                                                                     <div class="section-title-wrap mb-25">
                                                                                         <h2
                                                                                             class="chy-title-1 has-55 chy-split-in-right chy-split-text">
-                                                                                            we'll help you get started </h2>
+                                                                                            Accelerate Your Business Growth with Expert Digital Marketing Solutions </h2>
 
                                                                                         <p class="chy-section-para-1">
-                                                                                            Every pleasure is to be welcomed
-                                                                                            and every pain avoided. certain
-                                                                                            circumstances and owing to the
-                                                                                            claims welcomed and every pain
-                                                                                            avoided certain circumstances
+                                                                                        We help businesses maximize their online presence with tailored strategies in SEO, paid ads, and more to drive traffic and increase conversions
                                                                                         </p>
                                                                                     </div>
                                                                                     <div class="innter-div">
                                                                                         <div class="inner-div-left">
-                                                                                            <div
-                                                                                                class="chy-price-1-pricing mb-40">
-                                                                                                <h4
-                                                                                                    class="chy-heading-1 dollar">
-                                                                                                    &#036;16.32 </h4>
+                                                                                        
 
-                                                                                                <p
-                                                                                                    class="chy-para-1 monthly">
-                                                                                                    Monthly <br>Price </p>
-                                                                                            </div>
+                                                                                            
 
                                                                                             <a class="chy-pr-btn-1"
                                                                                                 href="../contact/index.html">
                                                                                                 <span class="text">
-                                                                                                    explore more </span>
+                                                                                                Learn More </span>
                                                                                                 <span class="icon">
                                                                                                     <i aria-hidden="true"
                                                                                                         class="fas fa-arrow-right"></i>
@@ -948,34 +926,21 @@
                                                                                 <div class="right">
                                                                                     <div class="section-title-wrap mb-25">
                                                                                         <h2
-                                                                                            class="chy-title-1 has-55 chy-split-in-right chy-split-text">
-                                                                                            we'll help you get started </h2>
+                                                                                            class="chy-title-1 has-55 chy-split-in-right chy-split-text">Accelerate Your Business Growth with Expert Digital Marketing Solutions
+                                                                                             </h2>
 
                                                                                         <p class="chy-section-para-1">
-                                                                                            Every pleasure is to be welcomed
-                                                                                            and every pain avoided. certain
-                                                                                            circumstances and owing to the
-                                                                                            claims welcomed and every pain
-                                                                                            avoided certain circumstances
+                                                                                        We help businesses maximize their online presence with tailored strategies in SEO, paid ads, and more to drive traffic and increase conversions
                                                                                         </p>
                                                                                     </div>
                                                                                     <div class="innter-div">
                                                                                         <div class="inner-div-left">
-                                                                                            <div
-                                                                                                class="chy-price-1-pricing mb-40">
-                                                                                                <h4
-                                                                                                    class="chy-heading-1 dollar">
-                                                                                                    &#036;16.32 </h4>
-
-                                                                                                <p
-                                                                                                    class="chy-para-1 monthly">
-                                                                                                    Monthly <br>Price </p>
-                                                                                            </div>
+                                                                                            
 
                                                                                             <a class="chy-pr-btn-1"
                                                                                                 href="../contact/index.html">
                                                                                                 <span class="text">
-                                                                                                    explore more </span>
+                                                                                                Learn More </span>
                                                                                                 <span class="icon">
                                                                                                     <i aria-hidden="true"
                                                                                                         class="fas fa-arrow-right"></i>
@@ -1011,33 +976,20 @@
                                                                                     <div class="section-title-wrap mb-25">
                                                                                         <h2
                                                                                             class="chy-title-1 has-55 chy-split-in-right chy-split-text">
-                                                                                            we'll help you get started </h2>
+                                                                                            Accelerate Your Business Growth with Expert Digital Marketing Solutions </h2>
 
                                                                                         <p class="chy-section-para-1">
-                                                                                            Every pleasure is to be welcomed
-                                                                                            and every pain avoided. certain
-                                                                                            circumstances and owing to the
-                                                                                            claims welcomed and every pain
-                                                                                            avoided certain circumstances
+                                                                                        We help businesses maximize their online presence with tailored strategies in SEO, paid ads, and more to drive traffic and increase conversions
+                                                                                        
                                                                                         </p>
                                                                                     </div>
                                                                                     <div class="innter-div">
                                                                                         <div class="inner-div-left">
-                                                                                            <div
-                                                                                                class="chy-price-1-pricing mb-40">
-                                                                                                <h4
-                                                                                                    class="chy-heading-1 dollar">
-                                                                                                    &#036;16.32 </h4>
-
-                                                                                                <p
-                                                                                                    class="chy-para-1 monthly">
-                                                                                                    Monthly <br>Price </p>
-                                                                                            </div>
-
+                                                                                           
                                                                                             <a class="chy-pr-btn-1"
                                                                                                 href="../contact/index.html">
                                                                                                 <span class="text">
-                                                                                                    explore more </span>
+                                                                                                Learn More </span>
                                                                                                 <span class="icon">
                                                                                                     <i aria-hidden="true"
                                                                                                         class="fas fa-arrow-right"></i>
@@ -1073,33 +1025,21 @@
                                                                                     <div class="section-title-wrap mb-25">
                                                                                         <h2
                                                                                             class="chy-title-1 has-55 chy-split-in-right chy-split-text">
-                                                                                            we'll help you get started </h2>
+                                                                                            Accelerate Your Business Growth with Expert Digital Marketing Solutions</h2>
 
                                                                                         <p class="chy-section-para-1">
-                                                                                            Every pleasure is to be welcomed
-                                                                                            and every pain avoided. certain
-                                                                                            circumstances and owing to the
-                                                                                            claims welcomed and every pain
-                                                                                            avoided certain circumstances
+                                                                                        We help businesses maximize their online presence with tailored strategies in SEO, paid ads, and more to drive traffic and increase conversions
+                                                                                        
                                                                                         </p>
                                                                                     </div>
                                                                                     <div class="innter-div">
                                                                                         <div class="inner-div-left">
-                                                                                            <div
-                                                                                                class="chy-price-1-pricing mb-40">
-                                                                                                <h4
-                                                                                                    class="chy-heading-1 dollar">
-                                                                                                    &#036;16.32 </h4>
-
-                                                                                                <p
-                                                                                                    class="chy-para-1 monthly">
-                                                                                                    Monthly <br>Price </p>
-                                                                                            </div>
+                                                                                          
 
                                                                                             <a class="chy-pr-btn-1"
                                                                                                 href="../contact/index.html">
                                                                                                 <span class="text">
-                                                                                                    explore more </span>
+                                                                                                    Learn More </span>
                                                                                                 <span class="icon">
                                                                                                     <i aria-hidden="true"
                                                                                                         class="fas fa-arrow-right"></i>
@@ -1155,12 +1095,12 @@
 
                                                             <h2
                                                                 class="tx-title chy-title-1 chy-split-text chy-split-in-right">
-                                                                Better Ship Faster <br>
-                                                                Avoid Unauthorized</h2>
+                                                                Deliver Results Faster<br>
+                                                                Avoid Missed Opportunities</h2>
                                                             <p class="tx-description chy-para-1 wow fadeInDown">
-                                                                Every pleasure is to be welcomed and every pain avoided.
-                                                                <br> certain circumstances and owing to the claims welcomed
-                                                                <br>and every pain avoided certain circumstances </p>
+                                                            In the world of digital marketing, every click counts and every  <br> conversion matters.We help you seize the right opportunities and 
+                                                                <br>overcome every challenge with data-driven strategies tailored for success
+                                                                 </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1192,12 +1132,7 @@
                                                     data-id="c206a85" data-element_type="widget"
                                                     data-widget_type="image.default">
                                                     <div class="elementor-widget-container">
-                                                        <img decoding="async" width="640" height="407"
-                                                            src="images/p1-img-3.webp"
-                                                            class="attachment-large size-large wp-image-181"
-                                                            alt=""
-                                                            srcset="images/p1-img-3.webp 830w, images/p1-img-3-300x191.webp 300w, images/p1-img-3-768x489.webp 768w, images/p1-img-3-600x382.webp 600w"
-                                                            sizes="(max-width: 640px) 100vw, 640px" />
+                                                       
                                                     </div>
                                                 </div>
                                             </div>
@@ -1385,692 +1320,9 @@
                         </div>
                     </div>
                 </section>
-                <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-b2ecc50 elementor-section-full_width fix elementor-section-height-default elementor-section-height-default"
-                    data-id="b2ecc50" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-23e04df"
-                            data-id="23e04df" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-cd07ccb elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="cd07ccb" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-74253d3"
-                                            data-id="74253d3" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-2e574d2 elementor-widget elementor-widget-tx_heading elh-el tx_heading"
-                                                    data-id="2e574d2" data-element_type="widget"
-                                                    data-settings="{&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="section-title-wrap text-center">
-                                                            <h5 class="chy-subtitle-1 tx-subTitle wow fadeInDown isShape">
-                                                                DISCOUNT PRICE </h5>
-
-                                                            <h2
-                                                                class="tx-title chy-title-1 chy-split-text chy-split-in-right">
-                                                                Make Brand Identities</h2>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-ac5015e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="ac5015e" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-custom">
-                                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1a77893"
-                                            data-id="1a77893" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-f0cb793 elementor-widget elementor-widget-tx_pricing_box elh-el tx_pricing_box"
-                                                    data-id="f0cb793" data-element_type="widget"
-                                                    data-settings="{&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_pricing_box.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="tx-pricing-box mb-0 tx-price-box asslideupcta ">
-                                                            <div class="chy-price-card-1-item ">
-                                                                <div class="icon-wrap">
-                                                                    <div class="icon">
-                                                                        <img decoding="async"
-                                                                            src="images/pc-1-icon-1.webp"
-                                                                            alt="">
-                                                                    </div>
-                                                                    <h3 class="chy-heading-1 price">
-                                                                        &#036;29 /month </h3>
-                                                                </div>
-                                                                <h6 class="chy-heading-1 title">Business</h6>
-
-                                                                <p class="chy-para-1 disc">Every pleasure is to be
-                                                                    welcomed and every pain avoided. is to be welcomed and
-                                                                    every</p>
-
-                                                                <a href="../contact/index.html"
-                                                                    class="pc1-btn tx-button" target="_self"
-                                                                    rel="">
-                                                                    get started </a>
-
-                                                                <p class="chy-heading-1 date">
-                                                                    14-Day Free Trial - No Credit Card Required </p>
-
-                                                                <ul class="chy-price-card-1-item-list list-unstyled">
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Setup &amp; Onboarding
-                                                                    </li>
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Onboarding &amp; Setup
-                                                                    </li>
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Awosame Consulting
-                                                                    </li>
-                                                                </ul>
-                                                                <img decoding="async"
-                                                                    src="images/p1-il-2.webp"
-                                                                    alt="" class="style-icon">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e573899"
-                                            data-id="e573899" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-00b6d65 elementor-widget elementor-widget-tx_pricing_box elh-el tx_pricing_box"
-                                                    data-id="00b6d65" data-element_type="widget"
-                                                    data-settings="{&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_pricing_box.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="tx-pricing-box mb-0 tx-price-box ">
-                                                            <div class="chy-price-card-1-item active">
-                                                                <div class="icon-wrap">
-                                                                    <div class="icon">
-                                                                        <img decoding="async"
-                                                                            src="images/pc-1-icon-2.webp"
-                                                                            alt="">
-                                                                    </div>
-                                                                    <h3 class="chy-heading-1 price">
-                                                                        &#036;69 /month </h3>
-                                                                </div>
-                                                                <h6 class="chy-heading-1 title">Agency</h6>
-
-                                                                <p class="chy-para-1 disc">Every pleasure is to be
-                                                                    welcomed and every pain avoided. is to be welcomed and
-                                                                    every</p>
-
-                                                                <a href="../contact/index.html"
-                                                                    class="pc1-btn tx-button" target="_self"
-                                                                    rel="">
-                                                                    get started </a>
-
-                                                                <p class="chy-heading-1 date">
-                                                                    30-Day Free Trial - No Credit Card Required </p>
-
-                                                                <ul class="chy-price-card-1-item-list list-unstyled">
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Setup &amp; Onboarding
-                                                                    </li>
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Onboarding &amp; Setup
-                                                                    </li>
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Awosame Consulting
-                                                                    </li>
-                                                                </ul>
-                                                                <img decoding="async"
-                                                                    src="images/p1-il-2.webp"
-                                                                    alt="" class="style-icon">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-15de160"
-                                            data-id="15de160" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-0dce76f elementor-widget elementor-widget-tx_pricing_box elh-el tx_pricing_box"
-                                                    data-id="0dce76f" data-element_type="widget"
-                                                    data-settings="{&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_pricing_box.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="tx-pricing-box mb-0 tx-price-box asslideupcta ">
-                                                            <div class="chy-price-card-1-item ">
-                                                                <div class="icon-wrap">
-                                                                    <div class="icon">
-                                                                        <img decoding="async"
-                                                                            src="images/pc-1-icon-3.webp"
-                                                                            alt="">
-                                                                    </div>
-                                                                    <h3 class="chy-heading-1 price">
-                                                                        &#036;99 /month </h3>
-                                                                </div>
-                                                                <h6 class="chy-heading-1 title">Company</h6>
-
-                                                                <p class="chy-para-1 disc">Every pleasure is to be
-                                                                    welcomed and every pain avoided. is to be welcomed and
-                                                                    every</p>
-
-                                                                <a href="../contact/index.html"
-                                                                    class="pc1-btn tx-button" target="_self"
-                                                                    rel="">
-                                                                    get started </a>
-
-                                                                <p class="chy-heading-1 date">
-                                                                    60-Day Free Trial - No Credit Card Required </p>
-
-                                                                <ul class="chy-price-card-1-item-list list-unstyled">
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Setup &amp; Onboarding
-                                                                    </li>
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Onboarding &amp; Setup
-                                                                    </li>
-                                                                    <li>
-                                                                        <i aria-hidden="true" class="fas fa-check"></i>
-                                                                        Awosame Consulting
-                                                                    </li>
-                                                                </ul>
-                                                                <img decoding="async"
-                                                                    src="images/p1-il-2.webp"
-                                                                    alt="" class="style-icon">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-0be6f51 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="0be6f51" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f816a07"
-                                            data-id="f816a07" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-8d8640f elementor-widget elementor-widget-tx_heading elh-el tx_heading"
-                                                    data-id="8d8640f" data-element_type="widget"
-                                                    data-settings="{&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="section-title-wrap text-center">
-                                                            <h5 class="chy-subtitle-1 tx-subTitle wow fadeInDown isShape">
-                                                                MARKETING AGENCY TEAM </h5>
-
-                                                            <h2
-                                                                class="tx-title chy-title-1 chy-split-text chy-split-in-right">
-                                                                Make Brand Identities From <br>
-                                                                Scratch And Help</h2>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-c7fd639 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                    data-id="c7fd639" data-element_type="section" id="contact">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-13bf8af"
-                                            data-id="13bf8af" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-c2c6be8 elementor-widget elementor-widget-tx_team elh-el tx_team"
-                                                    data-id="c2c6be8" data-element_type="widget"
-                                                    data-settings="{&quot;image_1&quot;:{&quot;url&quot;:&quot;https:\/\/themexriver.com\/wp\/choicy-wp\/wp-content\/uploads\/2023\/12\/t1-facebook.webp&quot;,&quot;id&quot;:232,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;image_2&quot;:{&quot;url&quot;:&quot;https:\/\/themexriver.com\/wp\/choicy-wp\/wp-content\/uploads\/2023\/12\/t1-instragram.webp&quot;,&quot;id&quot;:233,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_team.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="chy-team-1-area pb-75">
-                                                            <span class="bg-shape chyt1cc"></span>
-                                                            <div class="container chy-container-1">
-                                                                <div class="chy-team-1-wrap">
-
-                                                                    <img decoding="async"
-                                                                        src="images/t1-facebook.webp"
-                                                                        class="il-img-2" alt="">
-
-                                                                    <img decoding="async"
-                                                                        src="images/t1-instragram.webp"
-                                                                        class="il-img-3" alt="">
-
-                                                                    <div class="chy-team-1-member ">
-                                                                        <div class="main-img img-cover">
-                                                                            <img decoding="async"
-                                                                                src="images/t1-img-1.webp"
-                                                                                alt="">
-                                                                            <div class="content-wrap">
-                                                                                <h5 class="chy-heading-1 name">
-                                                                                    <a href="../about/index.html">
-                                                                                        Natalie Portman </a>
-                                                                                </h5>
-                                                                                <p class="chy-para-1 bio">marketing
-                                                                                    officer</p>
-                                                                            </div>
-                                                                        </div>
-                                                                        <img decoding="async"
-                                                                            src="images/t1-il-text-1.webp"
-                                                                            class="text-img" alt="">
-                                                                    </div>
-                                                                    <div class="chy-team-1-member has-style-2">
-                                                                        <div class="main-img img-cover">
-                                                                            <img decoding="async"
-                                                                                src="images/t1-img-2.webp"
-                                                                                alt="">
-                                                                            <div class="content-wrap">
-                                                                                <h5 class="chy-heading-1 name">
-                                                                                    <a href="../about/index.html">
-                                                                                        Dwayne Johnson </a>
-                                                                                </h5>
-                                                                                <p class="chy-para-1 bio">wp developer</p>
-                                                                            </div>
-                                                                        </div>
-                                                                        <img decoding="async"
-                                                                            src="images/t1-il-text-2.webp"
-                                                                            class="text-img" alt="">
-                                                                    </div>
-
-                                                                </div>
-
-                                                                <div class="col-12 pt-20 text-center">
-                                                                    <a class="chy-pr-btn-1" href="../about/index.html">
-                                                                        <span class="text">
-                                                                            explore more </span>
-
-                                                                        <span class="icon">
-                                                                            <i aria-hidden="true"
-                                                                                class=" flaticon-straight-right-arrow"></i>
-                                                                        </span>
-
-                                                                    </a>
-                                                                </div>
-
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-dc0a635 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="dc0a635" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-21c0c09"
-                                            data-id="21c0c09" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-68540d0 elementor-widget elementor-widget-tx_testimonial elh-el tx_testimonial"
-                                                    data-id="68540d0" data-element_type="widget"
-                                                    data-settings="{&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_testimonial.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="chy-team-slider-1-wrap">
-                                                            <div class="swiper-container chy_team_slider_1_active fix"
-                                                                data-speed="500" data-delay="5000"
-                                                                data-pause_on_hover="true">
-                                                                <div class="swiper-wrapper">
-
-                                                                    <div class="swiper-slide">
-                                                                        <div class="chy-team-slider-1-item">
-                                                                            <div class="main-img">
-                                                                                <img decoding="async"
-                                                                                    src="images/t1-slider-img-1.webp"
-                                                                                    alt="" />
-                                                                            </div>
-                                                                            <div class="content-wrap">
-                                                                                <h4 class="chy-heading-1 title">
-                                                                                    a framework for scaling teams </h4>
-
-                                                                                <p class="chy-para-1 comment">
-                                                                                    Every pleasure is to be welcomed and
-                                                                                    every pain avoided. is to be welcomedt
-                                                                                    and every Every pleasure is to be
-                                                                                    welcomed and every pain avoided. is to
-                                                                                    be welcomed
-                                                                                    every Every pleasure is to be welcomed
-                                                                                </p>
-                                                                                <div class="person">
-                                                                                    <h5 class="chy-heading-1 name">
-                                                                                        logon d </h5>
-
-                                                                                    <span class="chy-para-1 bio">
-                                                                                        Founder, Marketing agency </span>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="swiper-slide">
-                                                                        <div class="chy-team-slider-1-item">
-                                                                            <div class="main-img">
-                                                                                <img decoding="async"
-                                                                                    src="images/t1-slider-img-1.webp"
-                                                                                    alt="" />
-                                                                            </div>
-                                                                            <div class="content-wrap">
-                                                                                <h4 class="chy-heading-1 title">
-                                                                                    a framework for scaling teams </h4>
-
-                                                                                <p class="chy-para-1 comment">
-                                                                                    Every pleasure is to be welcomed and
-                                                                                    every pain avoided. is to be welcomedt
-                                                                                    and every Every pleasure is to be
-                                                                                    welcomed and every pain avoided. is to
-                                                                                    be welcomed
-                                                                                    every Every pleasure is to be welcomed
-                                                                                </p>
-                                                                                <div class="person">
-                                                                                    <h5 class="chy-heading-1 name">
-                                                                                        logon d </h5>
-
-                                                                                    <span class="chy-para-1 bio">
-                                                                                        Founder, Marketing agency </span>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="swiper-slide">
-                                                                        <div class="chy-team-slider-1-item">
-                                                                            <div class="main-img">
-                                                                                <img decoding="async"
-                                                                                    src="images/t1-slider-img-1.webp"
-                                                                                    alt="" />
-                                                                            </div>
-                                                                            <div class="content-wrap">
-                                                                                <h4 class="chy-heading-1 title">
-                                                                                    a framework for scaling teams </h4>
-
-                                                                                <p class="chy-para-1 comment">
-                                                                                    Every pleasure is to be welcomed and
-                                                                                    every pain avoided. is to be welcomedt
-                                                                                    and every Every pleasure is to be
-                                                                                    welcomed and every pain avoided. is to
-                                                                                    be welcomed
-                                                                                    every Every pleasure is to be welcomed
-                                                                                </p>
-                                                                                <div class="person">
-                                                                                    <h5 class="chy-heading-1 name">
-                                                                                        logon d </h5>
-
-                                                                                    <span class="chy-para-1 bio">
-                                                                                        Founder, Marketing agency </span>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="chy-team-slider-1-pagination"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-19f1846 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                                    data-id="19f1846" data-element_type="widget"
-                                                    data-widget_type="divider.default">
-                                                    <div class="elementor-widget-container">
-                                                        <style>
-                                                            /*! elementor - v3.23.0 - 23-07-2024 */
-                                                            .elementor-widget-divider {
-                                                                --divider-border-style: none;
-                                                                --divider-border-width: 1px;
-                                                                --divider-color: #0c0d0e;
-                                                                --divider-icon-size: 20px;
-                                                                --divider-element-spacing: 10px;
-                                                                --divider-pattern-height: 24px;
-                                                                --divider-pattern-size: 20px;
-                                                                --divider-pattern-url: none;
-                                                                --divider-pattern-repeat: repeat-x
-                                                            }
-
-                                                            .elementor-widget-divider .elementor-divider {
-                                                                display: flex
-                                                            }
-
-                                                            .elementor-widget-divider .elementor-divider__text {
-                                                                font-size: 15px;
-                                                                line-height: 1;
-                                                                max-width: 95%
-                                                            }
-
-                                                            .elementor-widget-divider .elementor-divider__element {
-                                                                margin: 0 var(--divider-element-spacing);
-                                                                flex-shrink: 0
-                                                            }
-
-                                                            .elementor-widget-divider .elementor-icon {
-                                                                font-size: var(--divider-icon-size)
-                                                            }
-
-                                                            .elementor-widget-divider .elementor-divider-separator {
-                                                                display: flex;
-                                                                margin: 0;
-                                                                direction: ltr
-                                                            }
-
-                                                            .elementor-widget-divider--view-line_icon .elementor-divider-separator,
-                                                            .elementor-widget-divider--view-line_text .elementor-divider-separator {
-                                                                align-items: center
-                                                            }
-
-                                                            .elementor-widget-divider--view-line_icon .elementor-divider-separator:after,
-                                                            .elementor-widget-divider--view-line_icon .elementor-divider-separator:before,
-                                                            .elementor-widget-divider--view-line_text .elementor-divider-separator:after,
-                                                            .elementor-widget-divider--view-line_text .elementor-divider-separator:before {
-                                                                display: block;
-                                                                content: "";
-                                                                border-block-end: 0;
-                                                                flex-grow: 1;
-                                                                border-block-start: var(--divider-border-width) var(--divider-border-style) var(--divider-color)
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type {
-                                                                flex-grow: 0;
-                                                                flex-shrink: 100
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-left .elementor-divider-separator:before {
-                                                                content: none
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-left .elementor-divider__element {
-                                                                margin-left: 0
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type {
-                                                                flex-grow: 0;
-                                                                flex-shrink: 100
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-right .elementor-divider-separator:after {
-                                                                content: none
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-right .elementor-divider__element {
-                                                                margin-right: 0
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type {
-                                                                flex-grow: 0;
-                                                                flex-shrink: 100
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-start .elementor-divider-separator:before {
-                                                                content: none
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-start .elementor-divider__element {
-                                                                margin-inline-start: 0
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type {
-                                                                flex-grow: 0;
-                                                                flex-shrink: 100
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-end .elementor-divider-separator:after {
-                                                                content: none
-                                                            }
-
-                                                            .elementor-widget-divider--element-align-end .elementor-divider__element {
-                                                                margin-inline-end: 0
-                                                            }
-
-                                                            .elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator {
-                                                                border-block-start: var(--divider-border-width) var(--divider-border-style) var(--divider-color)
-                                                            }
-
-                                                            .elementor-widget-divider--separator-type-pattern {
-                                                                --divider-border-style: none
-                                                            }
-
-                                                            .elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,
-                                                            .elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,
-                                                            .elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,
-                                                            .elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator {
-                                                                width: 100%;
-                                                                min-height: var(--divider-pattern-height);
-                                                                -webkit-mask-size: var(--divider-pattern-size) 100%;
-                                                                mask-size: var(--divider-pattern-size) 100%;
-                                                                -webkit-mask-repeat: var(--divider-pattern-repeat);
-                                                                mask-repeat: var(--divider-pattern-repeat);
-                                                                background-color: var(--divider-color);
-                                                                -webkit-mask-image: var(--divider-pattern-url);
-                                                                mask-image: var(--divider-pattern-url)
-                                                            }
-
-                                                            .elementor-widget-divider--no-spacing {
-                                                                --divider-pattern-size: auto
-                                                            }
-
-                                                            .elementor-widget-divider--bg-round {
-                                                                --divider-pattern-repeat: round
-                                                            }
-
-                                                            .rtl .elementor-widget-divider .elementor-divider__text {
-                                                                direction: rtl
-                                                            }
-
-                                                            .e-con-inner>.elementor-widget-divider,
-                                                            .e-con>.elementor-widget-divider {
-                                                                width: var(--container-widget-width, 100%);
-                                                                --flex-grow: var(--container-widget-flex-grow)
-                                                            }
-                                                        </style>
-                                                        <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-0b2e790 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="0b2e790" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f768b97"
-                                            data-id="f768b97" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-cd7f373 elementor-widget elementor-widget-tx_heading elh-el tx_heading"
-                                                    data-id="cd7f373" data-element_type="widget"
-                                                    data-settings="{&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="section-title-wrap text-left">
-
-                                                            <h2
-                                                                class="tx-title chy-title-1 chy-split-text chy-split-in-right">
-                                                                Our Investors</h2>
-                                                            <p class="tx-description chy-para-1 wow fadeInRight">
-                                                                Every pleasure is to be welcomed and
-                                                                every pain avoided.certain circumstances </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4cd41ec"
-                                            data-id="4cd41ec" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-6eb3648 elementor-widget elementor-widget-tx_brand elh-el tx_brand"
-                                                    data-id="6eb3648" data-element_type="widget"
-                                                    data-settings="{&quot;design_style&quot;:&quot;style_1&quot;}"
-                                                    data-widget_type="tx_brand.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="chy-client-1-logo chy-slideinright">
-                                                            <div class="logo-item">
-                                                                <img decoding="async" class="logo-1"
-                                                                    src="images/logo-3.webp"
-                                                                    alt="">
-                                                                <img decoding="async" class="logo-2"
-                                                                    src="images/logo-3.webp"
-                                                                    alt="">
-                                                            </div>
-                                                            <div class="logo-item">
-                                                                <img decoding="async" class="logo-1"
-                                                                    src="images/logo-4.webp"
-                                                                    alt="">
-                                                                <img decoding="async" class="logo-2"
-                                                                    src="images/logo-4.webp"
-                                                                    alt="">
-                                                            </div>
-                                                            <div class="logo-item">
-                                                                <img decoding="async" class="logo-1"
-                                                                    src="images/logo-5.webp"
-                                                                    alt="">
-                                                                <img decoding="async" class="logo-2"
-                                                                    src="images/logo-5.webp"
-                                                                    alt="">
-                                                            </div>
-                                                            <div class="logo-item">
-                                                                <img decoding="async" class="logo-1"
-                                                                    src="images/logo-6.webp"
-                                                                    alt="">
-                                                                <img decoding="async" class="logo-2"
-                                                                    src="images/logo-6.webp"
-                                                                    alt="">
-                                                            </div>
-                                                            <div class="logo-item">
-                                                                <img decoding="async" class="logo-1"
-                                                                    src="images/logo-1.webp"
-                                                                    alt="">
-                                                                <img decoding="async" class="logo-2"
-                                                                    src="images/logo-1.webp"
-                                                                    alt="">
-                                                            </div>
-                                                            <div class="logo-item">
-                                                                <img decoding="async" class="logo-1"
-                                                                    src="images/logo-2.webp"
-                                                                    alt="">
-                                                                <img decoding="async" class="logo-2"
-                                                                    src="images/logo-2.webp"
-                                                                    alt="">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                        </div>
-                    </div>
+                <section>
+                   
+                   
                 </section>
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-1b3a2fd elementor-section-full_width elementor-section-height-default elementor-section-height-default"
@@ -2095,8 +1347,7 @@
                                                 </a>
                                                 <h2
                                                     class="tx-title chy-heading-1 title chy-split-text chy-split-in-right">
-                                                    We Help Your Business <br>
-                                                    To Become Stronger</h2>
+                                                    Grow Your Business with Data-Driven<br> Digital Marketing</h2>
                                             </div>
                                             <img decoding="async" class="chy-zoomout2"
                                                 src="images/v1-img-1.webp" alt="">
@@ -2138,7 +1389,7 @@
 
                                                         <a class="chy-pr-btn-1" href="../about/index.html">
                                                             <span class="text">
-                                                                et's get started </span>
+                                                            Start Your Growth Journey </span>
                                                             <span class="icon">
                                                                 <i aria-hidden="true"
                                                                     class=" flaticon-straight-right-arrow"></i> </span>
@@ -2203,7 +1454,7 @@
                                                                         <h4 class="chy-heading-1 title tx-title">
                                                                             <a
                                                                                 href="../get-the-most-out-og-the-creativity/index.html">
-                                                                                Get The Most Out Og The Creativity </a>
+                                                                                Get The Most Out Of The Creativity </a>
                                                                         </h4>
                                                                         <p class="chy-para-1 disc">Every pleasure is to be
                                                                             welcomed and every pain avoided. certain
@@ -2236,7 +1487,7 @@
                                                                         <h4 class="chy-heading-1 title tx-title">
                                                                             <a
                                                                                 href="../social-media-marketing-strategies-for-small-business/index.html">
-                                                                                Better Ship Faster Avoid Unauthorized </a>
+                                                                                Improved Organic Traffic by 200% in 6 Months </a>
                                                                         </h4>
                                                                         <p class="chy-para-1 disc">Every pleasure is to be
                                                                             welcomed and every pain avoided. certain
